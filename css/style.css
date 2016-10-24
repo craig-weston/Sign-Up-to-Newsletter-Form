@@ -287,7 +287,6 @@ input[type=checkbox]:checked + .checkbox:before {
   margin: 0 20px 0 -2px;
 }
 
-
 @media screen and (min-width: 760px) { 
 
 	.banner {
@@ -296,7 +295,7 @@ input[type=checkbox]:checked + .checkbox:before {
 
 	.wrapper {
 		max-width: 720px;
-		padding-top: 40px;
+		padding-top: 0px;
 		margin: 5% auto;
 	}
 
